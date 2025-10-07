@@ -6,7 +6,7 @@ CSS selectors are patterns used to target HTML elements so you can style them. U
 
 A CSS rule-set looks like this:
 
-```css
+
 selector {
   property: value;
 }
